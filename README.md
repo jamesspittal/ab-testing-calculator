@@ -18,7 +18,7 @@ Example (Using calculate)
 
 Let's imagine we run an A/B test for A (control) versus B (variant).
 
-A has 15 visitors and 2 conversions (13.33% conversion rate) and B has 15 visitors with 6 conversions (40% convresion rate.)
+A has 15 visitors and 2 conversions (13.33% conversion rate) and B has 15 visitors with 6 conversions (40% conversion rate.)
 
 So, we run:
 
