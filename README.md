@@ -22,17 +22,17 @@ A has 15 visitors and 2 conversions (13.33% conversion rate) and B has 15 visito
 
 So, we run:
 
-``
+````
 <?php
 require_once('ab-testing-calculator.php');
 
 calculate(15, 2, 15, 6);
 ?>
-``
+````
 
 Output to STDOUT is as below:
 
-``
+````
 $ php ab-testing-example-1.php
 Split and AB Testing Confidence Calculator
 
@@ -44,7 +44,7 @@ Control   |        15        |      2      |      13.33      |                 |
 Treatment |        15        |      6      |       40%       | 1.7320508075689 |    96%
 -------------------------------------------------------------------------------------------
 STATISTICAL SIGNIFICANCE ACHIEVED!
-``
+```
 
 
 Uses
