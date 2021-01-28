@@ -32,7 +32,7 @@ calculate(15, 2, 15, 6);
 
 Output to STDOUT is as below:
 
-````
+```
 $ php ab-testing-example-1.php
 Split and AB Testing Confidence Calculator
 
